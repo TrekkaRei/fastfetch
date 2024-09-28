@@ -1,2 +1,2 @@
 # fastfetch
-fastfetch config
+fastfetch config mint
